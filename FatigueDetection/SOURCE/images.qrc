@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pose.svg</file>
+        <file>startjiance.svg</file>
+        <file>video.svg</file>
+        <file>minitor.svg</file>
+        <file>best.rknn</file>
+        <file>triangle-play.svg</file>
+        <file>shexiang.svg</file>
+        <file>mintor.svg</file>
+        <file>idifer.svg</file>
+        <file>dectRect.svg</file>
+    </qresource>
+</RCC>

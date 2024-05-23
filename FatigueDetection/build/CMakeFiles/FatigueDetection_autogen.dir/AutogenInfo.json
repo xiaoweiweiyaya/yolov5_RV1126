@@ -1,0 +1,120 @@
+{
+	"BUILD_DIR" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen",
+	"CMAKE_BINARY_DIR" : "/home/cw/linux/qt/FatigueDetection/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/cw/linux/qt/FatigueDetection/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/cw/linux/qt/FatigueDetection",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/cw/linux/qt/FatigueDetection",
+	"HEADERS" : 
+	[
+		[
+			"/home/cw/linux/qt/FatigueDetection/detect.h",
+			"MU",
+			"EWIEGA46WW/moc_detect.cpp"
+		],
+		[
+			"/home/cw/linux/qt/FatigueDetection/detect_loop.h",
+			"MU",
+			"EWIEGA46WW/moc_detect_loop.cpp"
+		],
+		[
+			"/home/cw/linux/qt/FatigueDetection/detect_postprocess.h",
+			"MU",
+			"EWIEGA46WW/moc_detect_postprocess.cpp"
+		],
+		[
+			"/home/cw/linux/qt/FatigueDetection/fatigue.h",
+			"MU",
+			"EWIEGA46WW/moc_fatigue.cpp"
+		],
+		[
+			"/home/cw/linux/qt/FatigueDetection/utils.h",
+			"MU",
+			"EWIEGA46WW/moc_utils.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rga",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/easymedia",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rkaiq/uAPI",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rkaiq/xcore",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rkaiq/algos",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rkaiq/common",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rkaiq/iq_parser",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/rknn",
+		"/home/cw/linux/qt/FatigueDetection",
+		"/home/cw/linux/qt/FatigueDetection/include",
+		"/home/cw/linux/qt/FatigueDetection/include/3rdparty",
+		"/home/cw/linux/qt/FatigueDetection/include/3rdparty/drm/include/libdrm",
+		"/home/cw/linux/qt/FatigueDetection/include/3rdparty/rga/include",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/qt5/QtNetwork",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/qt5",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/qt5/QtWidgets",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/qt5/QtGui",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/qt5/QtCore",
+		"/opt/atk-dlrv1126-toolchain/mkspecs/devices/linux-buildroot-g++",
+		"/opt/atk-dlrv1126-toolchain/arm-buildroot-linux-gnueabihf/sysroot/usr/include/opencv",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/atk-dlrv1126-toolchain/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/atk-dlrv1126-toolchain/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/cw/linux/qt/FatigueDetection/detect.cpp", "MU" ],
+		[ "/home/cw/linux/qt/FatigueDetection/detect_loop.cpp", "MU" ],
+		[ "/home/cw/linux/qt/FatigueDetection/detect_postprocess.cpp", "MU" ],
+		[ "/home/cw/linux/qt/FatigueDetection/fatigue.cpp", "MU" ],
+		[ "/home/cw/linux/qt/FatigueDetection/main.cpp", "MU" ],
+		[ "/home/cw/linux/qt/FatigueDetection/utils.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

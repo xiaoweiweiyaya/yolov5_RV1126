@@ -1,0 +1,8 @@
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/install/strip.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/install/local.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/install.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/list_install_components.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/rebuild_cache.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/edit_cache.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection.dir
+/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection_autogen.dir

@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen",
+	"CMAKE_BINARY_DIR" : "/home/cw/linux/qt/FatigueDetection/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/cw/linux/qt/FatigueDetection/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/cw/linux/qt/FatigueDetection",
+	"CMAKE_SOURCE_DIR" : "/home/cw/linux/qt/FatigueDetection",
+	"INCLUDE_DIR" : "/home/cw/linux/qt/FatigueDetection/build/FatigueDetection_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/dectRect.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/idifer.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/pose.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/video.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/shexiang.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/best.rknn",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/triangle-play.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/mintor.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/startjiance.svg",
+		"/home/cw/linux/qt/FatigueDetection/SOURCE/minitor.svg"
+	],
+	"LOCK_FILE" : "/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection_autogen.dir/AutoRcc_images_VVLILHSMOY_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "VVLILHSMOY",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/opt/atk-dlrv1126-toolchain/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/cw/linux/qt/FatigueDetection/build/CMakeFiles/FatigueDetection_autogen.dir/AutoRcc_images_VVLILHSMOY_Used.txt",
+	"SOURCE" : "/home/cw/linux/qt/FatigueDetection/SOURCE/images.qrc",
+	"VERBOSITY" : 0
+}

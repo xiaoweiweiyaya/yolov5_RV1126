@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>drivertitle.svg</file>
+        <file>manager.svg</file>
+        <file>status.svg</file>
+        <file>update.svg</file>
+        <file>facelogo.svg</file>
+        <file>todo.svg</file>
+        <file>zhuce.svg</file>
+    </qresource>
+</RCC>
